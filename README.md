@@ -1,4 +1,4 @@
-# Unified-Capability-Graph-UCG-
+# Unified-Capability-Graph-UCG
 velocity UCP 
 
 >
